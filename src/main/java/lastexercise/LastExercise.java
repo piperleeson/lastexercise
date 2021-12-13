@@ -32,7 +32,7 @@ public class LastExercise {
         System.out.println( "55 was found in the list: " + found );
         
         int count = countMatches ( 13 , data ) ;
-        System.out.printf( "Found %2d matches to 13 in the list\n",count ) ;
+        System.out.printf( "Found%2d matches to 13 in the list\n",count ) ;
         
        
     }
