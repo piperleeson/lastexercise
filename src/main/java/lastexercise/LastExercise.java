@@ -27,6 +27,7 @@ public class LastExercise {
         data.add(55);
         data.add(21);
         data.add(13);
+        data.add(15);
         
         boolean found = foundMatch( 55, data );
         System.out.println( "55 was found in the list: " + found );
